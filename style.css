@@ -1,0 +1,18 @@
+h1{
+    color: red;
+    background-color: yellow;
+}
+    a[href="https://www.youtube.com/"]{
+        color: red;
+    }
+a[href="https://validator.w3.org/"]{
+    color: red;
+}
+
+ p{
+color: green;
+
+}
+p{
+    font-size: 24px;
+}
